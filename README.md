@@ -1,4 +1,15 @@
-- 👋 Olá, sou @edivaldo25
-- 👀 Estou interessado em Programar jogos
-- 🌱 Atualmente estou aprendendo: P5jS e Scrath
-- 💞️ Procuro colaborar em: Criaçâo de Programaçôes
+### Bem Vindo(a) ao Meu Perfil 😁
+
+
+  Meu nome é Edivaldo Alexandre
+
+   • Estou estudando no Alura;
+ 
+   • Estou me desenvolvendo na linguagem Javascript;
+ 
+   • Estou ultilizando esse epaço para a organização e publicação do meus projetos.
+   
+
+        ***Entre em contato comigo***
+        
+           • edivaldo.calado@escola.pr.gov.br
